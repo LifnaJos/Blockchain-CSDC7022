@@ -37,14 +37,8 @@ Faculty Incharge : Dr. Nupur Giri, [Lifna C S](mailto:lifna.cs@ves.ac.in), Prof.
 2.2 Bitcoin Blockchain, Consensus in Bitcoin, Proof of Work (PoW), Proof of Burn(PoB), Proof of Stake (PoS), Proof of Elapsed Time (PoET), Life of a miner, Mining Difficulty, Mining Pools and its methods
 
 * Theory : [Cryptocurrency](https://github.com/LifnaJos/Blockchain-CSDC7022/blob/main/M2_BC_DLOC_Final.pdf)
-* YoutTube :
-  - [Solidity Programming,](https://www.youtube.com/watch?v=HfRrcp2CIvY&list=PLWUCKsxdKl0oksYr6IG_wRsaSUySQC0ck)
-  - [Vyper Tutorials,](https://www.youtube.com/watch?v=-kZpEmNnzyE&list=PLO5VPQH6OWdWOd-IJTfIzlM2a1yv1rSN-)
-  - [GoLang - Ethereum](https://www.youtube.com/watch?v=EB0KkSkG5XU&list=PLay9kDOVd_x7hbhssw4pTKZHzzc6OG0e_)
-  - [Smart Contract Programming in Java,](https://www.youtube.com/watch?v=2w2P-Ud3Bfk)
-  - [Simplicity,](https://www.youtube.com/watch?v=RZNCk-nyx_A)
-  - [Rholang Introduction](https://www.youtube.com/watch?v=00RDazs5p7M&list=PLf2bbiic5ZjD0_eEeniYp2nFbBVvZfOqO)
-    
+* Online Materials : [Cryptocurrency (Prof. Aaron Bloomfield, University of Virginia)](https://aaronbloomfield.github.io/ccc/)
+  
 ## Module - 3: Programming for Blockchain (8 hours)
 3.1 Introduction to Smart Contracts, Types of Smart Contracts, Structure of a Smart Contract, Smart Contract Approaches, Limitations of Smart Contracts
 3.2 Introduction to Programming: Solidity Programming – Basics, functions, Visibility and Activity Qualifiers, Address and Address Payable, Bytes and Enums, Arrays-Fixed and Dynamic Arrays, Special Arrays-Bytes and strings, Struct, Mapping, Inheritance, Error handling
@@ -71,11 +65,16 @@ Faculty Incharge : Dr. Nupur Giri, [Lifna C S](mailto:lifna.cs@ves.ac.in), Prof.
 * Online Materials : 
 1. [Setting up a Private Ethereum Blockchain using Geth,](https://github.com/LifnaJos/Private-Ethereum-Blockchain-setup-using-Geth#readme)
 2. [Geth in Developers mode](https://github.com/LifnaJos/Geth-in-Developer-Mode#readme)
-3. [Web 3.0 - Preeti Kasireddy](https://www.preethikasireddy.com/post/the-architecture-of-a-web-3-0-application)
-4. [How does the new Ethereum work? - Preeti Kasireddy **](https://www.preethikasireddy.com/post/how-does-the-new-ethereum-work)
-5. [Blockchain Development & Security Course - Portland State University](https://codelabs.cs.pdx.edu/cs410b/)
-6. [Complete Web3 and Solidity Development Roadmap 2022 -  Vittorio Rivabella](https://vitto.cc/web3-and-solidity-smart-contracts-development-roadmap/)
-7. [DApp University - Gregory](https://www.dappuniversity.com/)
+3. [Ganache Tutorial](https://github.com/LifnaJos/develop-test-and-deploy-smart-contract-using-Ganache)
+4. [Metamask Tutorial](https://github.com/LifnaJos/Embedding-Metamask-wallet-with-Remix-IDE-and-perform-transactions)
+5. [Testnet Tutorial](https://github.com/LifnaJos/Getting-funds-from-Testnets-to-Metamask-Wallet)
+6. [Etherscan.io](https://etherscan.io/)
+7. [Exploring -  Etherscan.io & Infura.io](https://colab.research.google.com/drive/1Mg3IeM0TgaFt3YKLjdHqWp58nqF7D3hv?usp=sharing)
+8. [Web 3.0 - Preeti Kasireddy](https://www.preethikasireddy.com/post/the-architecture-of-a-web-3-0-application)
+9. [How does the new Ethereum work? - Preeti Kasireddy **](https://www.preethikasireddy.com/post/how-does-the-new-ethereum-work)
+10. [Blockchain Development & Security Course - Portland State University](https://codelabs.cs.pdx.edu/cs410b/)
+11. [Complete Web3 and Solidity Development Roadmap 2022 -  Vittorio Rivabella](https://vitto.cc/web3-and-solidity-smart-contracts-development-roadmap/)
+12. [DApp University - Gregory](https://www.dappuniversity.com/)
 
 ## Module - 5: Private Blockchain (8 hours)
 5.1 Introduction, Key characteristics, Need of Private Blockchain, Smart Contract in a Private Environment, State Machine Replication, Consensus Algorithms for Private Blockchain -
@@ -87,7 +86,7 @@ PAXOS and RAFT, Byzantine Faults: Byzantine Fault Tolerant (BFT) and Practical B
     - [Private Blockchain,](https://drive.google.com/file/d/1_OqqufOmrZlSrRBfSRn1W_5V4ySTF-qL/view?usp=sharing)
     - Chainfy Project
       - [Github](https://github.com/Sujaljp/Land-registry-using-Hyperledger-Fabric-#land-registry-using-hyperledger-fabric-),
-      - [PPT,](https://drive.google.com/file/d/15GBrzTdR7h8S_M6M2FHbqjO66jgZI-ts/view?usp=sharing)
+      - [PPT](https://drive.google.com/file/d/15GBrzTdR7h8S_M6M2FHbqjO66jgZI-ts/view?usp=sharing)
       - [Video Link](https://drive.google.com/file/d/1dC6JxEVBfGLeCHQpUTntIDJmfk12Ozhe/view?usp=sharing)
 
 ## Module - 6: Tools and Applications of Blockchain (3 hours)
