@@ -1,12 +1,15 @@
-# [Course : Blockchain (CSDC7022)]()
+# Course : Blockchain (CSDC7022)
+* [Blockchain Syllabus](https://github.com/LifnaJos/Blockchain-CSDC7022/blob/main/BC_DLOC_Theory_Syllabus.pdf)
+* [Blockchain Lab (CSDL7022)]()
+
 Faculty Incharge : Dr. Nupur Giri, [Lifna C S](mailto:lifna.cs@ves.ac.in), Prof. Richard Joseph
 
 ## Evaluation Scheme
 | No | Rubrics | Marks | Document |
 | :--: | ------------------ | :----: | :--------:|
-| 1 | End Semester Exam | 60 Marks | |
-| 2 | Internal Assessment | 20 Marks |  | |
-| 3 | Continuous Assessment | 20 Marks | |
+| 1 | End Semester Exam | 60 Marks | [May'23](), [Dec'22]() |
+| 2 | Internal Assessment | 20 Marks | [MT-Key(2023-24]() |
+| 3 | Continuous Assessment | 20 Marks | [Case Study Topics]() |
 |   | Total Marks | 100 Marks | |
 
 ##Prerequisite: Cryptography and System Security
@@ -14,22 +17,23 @@ Faculty Incharge : Dr. Nupur Giri, [Lifna C S](mailto:lifna.cs@ves.ac.in), Prof.
 ## Module - 1: Introduction to Blockchain (4 hours)
 1.1 What is a blockchain, Origin of blockchain (cryptographically secure hash functions), Foundation of blockchain: Merkle trees
 1.2 Components of blockchain, Block in blockchain, Types: Public, Private, and Consortium, Consensus Protocol, Limitations and Challenges of blockchain
-* Theory : 
+
+* Theory : [Introduction to Blockchain](https://github.com/LifnaJos/Blockchain-CSDC7022/blob/main/M1_BC_DLOC_Final.pdf)  
 * YoutTube : [Vitalik explains Ethereuem](https://www.youtube.com/watch?v=TDGq4aeevgY&t=205s)
+  
 * Online Materials :
-1. [Ethereum Architecture](https://www.coding-bootcamps.com/blog/ethereum-architecture-and-components.html)
-2. [Summary of Top 5 Blockchain Platforms for Enterprises (Horses for Sources)](https://www.horsesforsources.com/storage/app/media/Phil%20MARCH%20APRIL%202018/Enterprise%20Blockchain%20Platforms.jpg)
-3. [Top-9-blockchain-platforms-to-consider (Tech Target)](https://www.techtarget.com/searchcio/feature/Top-9-blockchain-platforms-to-consider)
-4. [Blockchain-platforms (Gartner)](https://www.gartner.com/reviews/market/blockchain-platforms)
-5. [20 Blockchain Platform driving the Industry](https://builtin.com/blockchain/blockchain-platforms)
-6. [Top-10-blockchain-platforms-to-consider-in-2023 (Analytics Insight)](https://www.analyticsinsight.net/top-10-blockchain-platforms-to-consider-in-2023/)
-7. [Top-10-blockchain-platforms-you-need-to-know-about (Blockchain Council)](https://www.blockchain-council.org/blockchain/top-10-blockchain-platforms-you-need-to-know-about/)
-8. [Blockchain-platforms#blockchain-platforms-for-developers (Knowledge Hut)*](https://www.knowledgehut.com/blog/blockchain/blockchain-platforms#blockchain-platforms-for%C2%A0developers)
+  1. [Blockchain Demo - 1 (Anders Brownworth)](https://andersbrownworth.com/blockchain/)
+  2. [Blockchain Demo - 2 (Anders Brownworth)](https://andersbrownworth.com/blockchain/public-private-keys/blockchain)
+  3. [Blockchain Demo - 3](https://blockchaindemo.io/)
+  4. [Blockchain Demo - 4 (IIT Kanpur)](https://ict.iitk.ac.in/product/introduction-to-blockchain-demo/)
+  5. [Merkle Tree - Demo 1](https://prathamudeshmukh.github.io/merkle-tree-demo/)
+
 
 ## Module - 2: Cryptocurrency (8 hours)
 2.1 Cryptocurrency: Bitcoin, Altcoin, and Tokens (Utility and Security), Cryptocurrency wallets: Hot and cold wallets, Cryptocurrency usage, Transactions in Blockchain, UTXO and double spending problem. 
 2.2 Bitcoin Blockchain, Consensus in Bitcoin, Proof of Work (PoW), Proof of Burn(PoB), Proof of Stake (PoS), Proof of Elapsed Time (PoET), Life of a miner, Mining Difficulty, Mining Pools and its methods
-* Theory : 
+
+* Theory : [Cryptocurrency](https://github.com/LifnaJos/Blockchain-CSDC7022/blob/main/M2_BC_DLOC_Final.pdf)
 * YoutTube :
   - [Solidity Programming,](https://www.youtube.com/watch?v=HfRrcp2CIvY&list=PLWUCKsxdKl0oksYr6IG_wRsaSUySQC0ck)
   - [Vyper Tutorials,](https://www.youtube.com/watch?v=-kZpEmNnzyE&list=PLO5VPQH6OWdWOd-IJTfIzlM2a1yv1rSN-)
@@ -42,8 +46,8 @@ Faculty Incharge : Dr. Nupur Giri, [Lifna C S](mailto:lifna.cs@ves.ac.in), Prof.
 3.1 Introduction to Smart Contracts, Types of Smart Contracts, Structure of a Smart Contract, Smart Contract Approaches, Limitations of Smart Contracts
 3.2 Introduction to Programming: Solidity Programming – Basics, functions, Visibility and Activity Qualifiers, Address and Address Payable, Bytes and Enums, Arrays-Fixed and Dynamic Arrays, Special Arrays-Bytes and strings, Struct, Mapping, Inheritance, Error handling
 3.3 Case Study – Voting Contract App, Preparing for smart contract development
-* Theory :
-  - 
+
+* Theory : 
   - [Theory for Solidity Programming](https://docs.soliditylang.org/en/v0.8.21/)
   - [Solidity Documentation,](https://docs.soliditylang.org/_/downloads/en/v0.8.21/pdf/)
   - [Solidity Quick Guide](https://drive.google.com/file/d/1bR6xR5uMcJ5tctxCAvHwTFef7Gyw8CHg/view?usp=sharing)
@@ -58,8 +62,9 @@ Faculty Incharge : Dr. Nupur Giri, [Lifna C S](mailto:lifna.cs@ves.ac.in), Prof.
   
 ## Module - 4: Public Blockchain (8 hours)
 4.1 Introduction to Public Blockchain, Ethereum and its Components, Mining in Ethereum, Ethereum Virtual Machine (EVM), Transaction, Accounts, Architecture and Workflow, Comparison between Bitcoin and Ethereum 
-4.2 Types of test-networks used in Ethereum, Transferring Ethers using Metamask, Mist Wallet, Ethereum frameworks, Case study of Ganache for Ethereum blockchain, Exploring etherscan.io and ether block structure
-* Theory : 
+4.2 Types of test-networks used in Ethereum, Transferring Ethers using Metamask, Ethereum frameworks, Case study of Ganache for Ethereum blockchain, Exploring etherscan.io and ether block structure
+
+* Theory : [Public Blockchain](https://github.com/LifnaJos/Blockchain-CSDC7022/blob/main/M4_BC_DLOC%20(1).pdf)
 * Online Materials : 
 1. [Setting up a Private Ethereum Blockchain using Geth,](https://github.com/LifnaJos/Private-Ethereum-Blockchain-setup-using-Geth#readme)
 2. [Geth in Developers mode](https://github.com/LifnaJos/Geth-in-Developer-Mode#readme)
