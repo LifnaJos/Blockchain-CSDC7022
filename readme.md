@@ -7,9 +7,9 @@ Faculty Incharge : Dr. Nupur Giri, [Lifna C S](mailto:lifna.cs@ves.ac.in), Prof.
 ## Evaluation Scheme
 | No | Rubrics | Marks | Document |
 | :--: | ------------------ | :----: | :--------:|
-| 1 | End Semester Exam | 60 Marks | [May'23](), [Dec'22]() |
-| 2 | Internal Assessment | 20 Marks | [MT-Key(2023-24]() |
-| 3 | Continuous Assessment | 20 Marks | [Case Study Topics]() |
+| 1 | End Semester Exam | 60 Marks | [May'23](https://github.com/LifnaJos/Blockchain-CSDC7022/blob/main/BE_DLOC_MU_Paper_May_2023.pdf), [Dec'22](https://github.com/LifnaJos/Blockchain-CSDC7022/blob/main/BE_DLOC_MU_Paper_Dec_2022.pdf) |
+| 2 | Internal Assessment | 20 Marks | [MT-Key(2023-24](https://github.com/LifnaJos/Blockchain-CSDC7022/blob/main/BC_DLOC_23-24_Mid_Term_Solution.pdf) |
+| 3 | Continuous Assessment | 20 Marks | [Case Study Topics](https://github.com/LifnaJos/Blockchain-CSDC7022/blob/main/Blockchain%20Case%20Study%20Topics%20(2023-24)%20(2).pdf) |
 |   | Total Marks | 100 Marks | |
 
 ##Prerequisite: Cryptography and System Security
