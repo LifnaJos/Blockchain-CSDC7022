@@ -96,22 +96,22 @@ The Internet of Things (IoT)
 * Theory: [NPTEL Blockchain PPTs - Lecture 30 to 60  ***](https://drive.google.com/drive/folders/1teROdBijYNhHIpIDoqd3w5cpxYZ1t9Sb?usp=sharing)
 
 ## Textbooks 
-1 Blockchain Technology, Chandramouli Subramanian, Asha A. George, Abhilash K. A and Meena Karthikeyen, Universities Press.
-2 Mastering Ethereum, Building Smart Contract and Dapps, Andreas M. Antonopoulos Dr. Gavin Wood, O’reilly.
-3 Imran Bashir, Mastering Blockchain: A deep dive into distributed ledgers, consensus protocols, smart contracts, DApps, cryptocurrencies, Ethereum, and more, 3rd Edition, Packt Publishing
-4 “Mastering Bitcoin, PROGRAMMING THE OPEN BLOCKCHAIN”, 2nd Edition by Andreas M. Antonopoulos, June 2017, Publisher(s): O'Reilly Media, Inc. ISBN: 9781491954386.
-5 “Blockchain for Enterprise Application Developers”, Ambadas, Arshad SarfarzAriff, Sham – Wiley
+1. Blockchain Technology, Chandramouli Subramanian, Asha A. George, Abhilash K. A and Meena Karthikeyen, Universities Press.
+2. Mastering Ethereum, Building Smart Contract and Dapps, Andreas M. Antonopoulos Dr. Gavin Wood, O’reilly.
+3. Imran Bashir, Mastering Blockchain: A deep dive into distributed ledgers, consensus protocols, smart contracts, DApps, cryptocurrencies, Ethereum, and more, 3rd Edition, Packt Publishing
+4. “Mastering Bitcoin, PROGRAMMING THE OPEN BLOCKCHAIN”, 2nd Edition by Andreas M. Antonopoulos, June 2017, Publisher(s): O'Reilly Media, Inc. ISBN: 9781491954386.
+5. “Blockchain for Enterprise Application Developers”, Ambadas, Arshad SarfarzAriff, Sham – Wiley
 
 ## Reference Books:
-1 Blockchain for Beginners, Yathish R and Tejaswini N, SPD
-2 Blockchain Basics, A non Technical Introduction in 25 Steps, Daniel Drescher, Apress.
-3 Blockchain with Hyperledger Fabric,Luc Desrosiers, Nitin Gaur, Salman A. Baset, Venkatraman Ramakrishna, Packt Publishing
-
+1. Blockchain for Beginners, Yathish R and Tejaswini N, SPD
+2. Blockchain Basics, A non Technical Introduction in 25 Steps, Daniel Drescher, Apress.
+3. Blockchain with Hyperledger Fabric,Luc Desrosiers, Nitin Gaur, Salman A. Baset, Venkatraman Ramakrishna, Packt Publishing
+  
 ## Useful Links
-1 Blockchain By Example, Bellaj Badr, Richard Horrocks, Xun (Brian) Wu, November 2018, Implement decentralized blockchain applications to build scalable Dapps.
-2 [Blockchain for Business](https://www.ibm.com/downloads/cas/3EGWKGX7)
-3 [Hyperledger Fabric](https://www.hyperledger.org/use/fabric)
-4 [NPTEL Course on Blockchain](https://onlinecourses.nptel.ac.in/noc19_cs63/preview)
+1. Blockchain By Example, Bellaj Badr, Richard Horrocks, Xun (Brian) Wu, November 2018, Implement decentralized blockchain applications to build scalable Dapps.
+2. [Blockchain for Business](https://www.ibm.com/downloads/cas/3EGWKGX7)
+3. [Hyperledger Fabric](https://www.hyperledger.org/use/fabric)
+4. [NPTEL Course on Blockchain](https://onlinecourses.nptel.ac.in/noc19_cs63/preview)
 
 ## Acknowledgements
 * This material was prepared as a part of the Department Elective - **Blockchain** offered by the **Department of Computer Engineering, (VES Institute of Technology - An Autonomous Institute, Affiliated to the University of Mumbai)** to the Fourth Year Students of Computer Engineering during the Academic Year 2022-23, 2023-24 and 2025-26.
