@@ -1,5 +1,5 @@
 # [Course : Blockchain (CSDC7022)]()
-Faculty Incharge : Dr. Nupur Giri, [Lifna C S](mailto:lifna.cs@ves.ac.in)
+Faculty Incharge : Dr. Nupur Giri, [Lifna C S](mailto:lifna.cs@ves.ac.in), Prof. Richard Joseph
 
 ## Evaluation Scheme
 | No | Rubrics | Marks | Document |
