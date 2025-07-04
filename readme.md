@@ -1,5 +1,5 @@
 # [Course : Blockchain (CSDC7022)](https://github.com/LifnaJos/Blockchain-CSDC7022/blob/main/BC_DLOC_Theory_Syllabus.pdf)
-* [Blockahin Lab Manual](https://github.com/LifnaJos/Blockchain-CSDC7022/blob/main/BC-%20DLOC%20Lab%20Manual%20cum%20Instructions%20_%20D17.pdf)
+* [Blockchain Lab Manual](https://github.com/LifnaJos/Blockchain-CSDC7022/blob/main/BC-%20DLOC%20Lab%20Manual%20cum%20Instructions%20_%20D17.pdf)
 
 Faculty Incharge : Dr. Nupur Giri, [Lifna C S](mailto:lifna.cs@ves.ac.in), Prof. Richard Joseph
 
