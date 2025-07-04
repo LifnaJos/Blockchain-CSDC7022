@@ -15,7 +15,7 @@ Faculty Incharge : Dr. Nupur Giri, [Lifna C S](mailto:lifna.cs@ves.ac.in), Prof.
 |   | c. Certification Courses | 5 / 10 Marks | | |
 |   | Total Marks | 100 Marks | |
 
-##Prerequisite: Cryptography and System Security
+## Prerequisite: Cryptography and System Security
 
 ## Module - 1: Introduction to Blockchain (4 hours)
 1.1 What is a blockchain, Origin of blockchain (cryptographically secure hash functions), Foundation of blockchain: Merkle trees
