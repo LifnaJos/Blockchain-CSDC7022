@@ -1,4 +1,4 @@
-# [Course : Blockchain (CSC701)]()
+# [Course : Blockchain (CSDC7022)]()
 Faculty Incharge : [Lifna C S](mailto:lifna.cs@ves.ac.in)
 
 ## Evaluation Scheme
