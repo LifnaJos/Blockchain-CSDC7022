@@ -15,7 +15,7 @@ Faculty Incharge : Dr. Nupur Giri, [Lifna C S](mailto:lifna.cs@ves.ac.in), Prof.
 
 ## Important Documents
 | No | Document Name | Document |
-|:-: |:-------------: | :--------: |
+|:-: |------------- | :--------: |
 | 1. | Theory Syllabus | [Th-Syllabus](https://github.com/LifnaJos/Blockchain-CSDC7022/blob/main/BC_DLOC_Theory_Syllabus.pdf) |
 | 2. | Lab Syllabus | [Prac-Syllabus](https://drive.google.com/file/d/1hWf2duYYavLSLbcAuYw_tqD23O4MZsUB/view?usp=sharing) |
 | 3. | Lecture Plan | [Lec-Plan](https://docs.google.com/document/d/1ShJ8nyyIEiIj8hXcKnRaDksSCMcm_xE-7Opd5ezD6RI/edit?tab=t.0) |
