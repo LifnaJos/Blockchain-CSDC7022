@@ -1,5 +1,4 @@
-# [Course : Blockchain (CSDC7022)](https://github.com/LifnaJos/Blockchain-CSDC7022/blob/main/BC_DLOC_Theory_Syllabus.pdf)
-* [Blockchain Lab Manual](https://github.com/LifnaJos/Blockchain-CSDC7022/blob/main/BC-%20DLOC%20Lab%20Manual%20cum%20Instructions%20_%20D17.pdf)
+# Course : Blockchain (CSDC7022)
 
 Faculty Incharge : Dr. Nupur Giri, [Lifna C S](mailto:lifna.cs@ves.ac.in), Prof. Richard Joseph
 
@@ -14,7 +13,16 @@ Faculty Incharge : Dr. Nupur Giri, [Lifna C S](mailto:lifna.cs@ves.ac.in), Prof.
 |   | c. Certification Courses | 5 / 10 Marks | | |
 |   | Total Marks | 100 Marks | |
 
-[D17C Attendance](https://docs.google.com/spreadsheets/d/1Z-2seGd5kmOG0gKmTzJ3ftO54kAyDY1b4IGO9ZTWgT0/edit?usp=sharing)
+## Important Documents
+| No | Document Name | Document |
+| 1. | Theory Syllabus | [Th-Syllabus](https://github.com/LifnaJos/Blockchain-CSDC7022/blob/main/BC_DLOC_Theory_Syllabus.pdf) |
+| 2. | Lab Syllabus | [Prac-Syllabus](https://drive.google.com/file/d/1hWf2duYYavLSLbcAuYw_tqD23O4MZsUB/view?usp=sharing) |
+| 3. | Lecture Plan | [Lec-Plan](https://docs.google.com/document/d/1ShJ8nyyIEiIj8hXcKnRaDksSCMcm_xE-7Opd5ezD6RI/edit?tab=t.0) |
+| 4. | Lab Plan | [Prac-Plan](https://docs.google.com/document/d/12jkpxrKPGGxss3TEr-6prlxpIPllwTdCtvGuXO6aadU/edit?tab=t.0) |
+| 5. | Case Study Topics | [CS-Topics](https://drive.google.com/file/d/1e7yWfl3ogD5-B3oCkGXRAZirQDo3xmmk/view?usp=sharing) |
+| 6. | Lab Manual | [BCLab-Manual](https://github.com/LifnaJos/Blockchain-CSDC7022/blob/main/BC-%20DLOC%20Lab%20Manual%20cum%20Instructions%20_%20D17.pdf)
+| 7. | Index Page | [Index](https://docs.google.com/document/d/1cJUd0rX8mAA7jo-_icUpNh3px8rJEjUCQbRMw_pWoi4/edit?tab=t.0) |
+| 7. | Attendance Sheet | [D17C](https://docs.google.com/spreadsheets/d/1Z-2seGd5kmOG0gKmTzJ3ftO54kAyDY1b4IGO9ZTWgT0/edit?usp=sharing)
 
 ## Prerequisite: Cryptography and System Security
 
