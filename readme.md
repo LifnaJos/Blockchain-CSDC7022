@@ -14,6 +14,8 @@ Faculty Incharge : Dr. Nupur Giri, [Lifna C S](mailto:lifna.cs@ves.ac.in), Prof.
 |   | c. Certification Courses | 5 / 10 Marks | | |
 |   | Total Marks | 100 Marks | |
 
+[D17C Attendance](https://docs.google.com/spreadsheets/d/1Z-2seGd5kmOG0gKmTzJ3ftO54kAyDY1b4IGO9ZTWgT0/edit?usp=sharing)
+
 ## Prerequisite: Cryptography and System Security
 
 ## Module - 1: Introduction to Blockchain (4 hours)
