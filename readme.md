@@ -6,7 +6,7 @@ Faculty Incharge : Dr. Nupur Giri, [Lifna C S](mailto:lifna.cs@ves.ac.in), Prof.
 | No | Rubrics | Marks | Document | Schedule |
 | :--: | ------------------ | :----: | :--------:| :------------:|
 | 1 | End Semester Exam | 60 Marks | [May'23](https://github.com/LifnaJos/Blockchain-CSDC7022/blob/main/BE_DLOC_MU_Paper_May_2023.pdf), [Dec'22](https://github.com/LifnaJos/Blockchain-CSDC7022/blob/main/BE_DLOC_MU_Paper_Dec_2022.pdf) | Nov'25 |
-| 2 | Internal Assessment | 20 Marks | [MT-Key(2023-24](https://github.com/LifnaJos/Blockchain-CSDC7022/blob/main/BC_DLOC_23-24_Mid_Term_Solution.pdf) | 2nd week Sept'25 |
+| 2 | Internal Assessment | 20 Marks | [MT-Key(2023-24)](https://github.com/LifnaJos/Blockchain-CSDC7022/blob/main/BC_DLOC_23-24_Mid_Term_Solution.pdf) <br> [MT-Key(2025-26)](https://github.com/LifnaJos/Blockchain-CSDC7022/blob/main/CMPN-CSDC7022-BC-DLOC-MT-QP-key.docx-2.pdf) | 2nd week Sept'25 |
 | 3 | Continuous Assessment | 20 Marks | | | 
 |   | a. Case Study | 10 Marks | [Case Study Topics](https://github.com/LifnaJos/Blockchain-CSDC7022/blob/main/Blockchain%20Case%20Study%20Topics%20(2023-24)%20(2).pdf) | 2nd week Aug'25 - 4th week Aug'25 |
 |   | b. MCQ  | 5 Marks | | | 
